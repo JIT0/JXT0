@@ -2,7 +2,7 @@
   "name": "jxt0",
   "description": "bot personal",
   "version": "0.0.0",
-  "main": "bot.js", 
+  "main": "bot.js",  JXT0
   "scripts": {
     "start": "node bot.js"
   },
