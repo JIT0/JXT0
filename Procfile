@@ -1,1 +1,1 @@
-worker: node bot.js JXT0
+worker: node bot.js  JXT0
