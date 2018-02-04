@@ -1,14 +1,13 @@
 {
   "name": "jxt0",
-  "version": "1.0.0",
   "description": "bot personal",
-  "main": "index.js",
+  "version": "0.0.0",
+  "main": "bot.js", JTX0
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "author": "jit0",
-  "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.0"
+    "resquest": "2.81.0"
   }
 }
