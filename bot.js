@@ -114,5 +114,7 @@ bot.on('message', (message) => {
 		message.channel.sendMessage(':thumbsup:');
 	}
 							
-});
-bot.login('NDA5NTU0NTE5MDUxOTkzMDk4.DVgTUg._JZp-e6uBZdMGwhc5IFBhioBpm0');
+ });
+	
+
+ client.login(process.env.BOT_TOKEN);
