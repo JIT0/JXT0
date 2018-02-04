@@ -2,12 +2,11 @@
   "name": "jxt0",
   "description": "bot personal",
   "version": "0.0.0",
-  "main": "bot.js",  jxt0
+  "main": "bot.js",  JXT0
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.3.0"
-    "request": "2.81.0"
   }
 }
